@@ -26,3 +26,9 @@ sonic-utilities-data/debian/*
 sonic-utilities-data_*.deb
 sonic-utilities-data_*.buildinfo
 sonic-utilities-data_*.changes
+
+tests/sku_create_input/
+test-results.xml
+
+new_port_config.json
+newfile
